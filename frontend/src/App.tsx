@@ -7,6 +7,7 @@ function App() {
 
   return (
     <>
+      <title>Meta</title>
       <ToastContainer/>
       <Header />
 
