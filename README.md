@@ -1,6 +1,6 @@
 # Meta - William Lêdo da Cunha
 
-<img src="frontend\src\assets\img\projeto.jpg"/>
+<img src="frontend\src\assets\img\sistema.jpg"/>
 
 ## Frontend - https://meta-ledo.netlify.app
 ## Backend - https://meta-ledo.herokuapp.com
