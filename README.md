@@ -3,7 +3,7 @@
 <img src="frontend\src\assets\img\sistema.jpg"/>
 
 ## Frontend - https://meta-ledo.netlify.app
-## Backend - https://meta-ledo.herokuapp.com   ->  /sales
+## Backend - https://meta-ledo.herokuapp.com  /sales
 
 
 ## Sobre o projeto
